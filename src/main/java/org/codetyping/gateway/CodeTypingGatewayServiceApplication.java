@@ -1,4 +1,4 @@
-package org.speedtyping.gateway;
+package org.codetyping.gateway;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -6,10 +6,10 @@ import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
 
 @SpringBootApplication
 @EnableDiscoveryClient
-public class SpeedTypingGatewayServiceApplication {
+public class CodeTypingGatewayServiceApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(SpeedTypingGatewayServiceApplication.class, args);
+        SpringApplication.run(CodeTypingGatewayServiceApplication.class, args);
     }
 
 }

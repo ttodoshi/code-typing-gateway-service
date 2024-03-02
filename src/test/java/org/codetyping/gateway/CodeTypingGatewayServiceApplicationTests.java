@@ -1,10 +1,10 @@
-package org.speedtyping.gateway;
+package org.codetyping.gateway;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpeedTypingGatewayServiceApplicationTests {
+class CodeTypingGatewayServiceApplicationTests {
 
     @Test
     void contextLoads() {
